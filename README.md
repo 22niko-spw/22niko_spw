@@ -53,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=22niko-spw&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22niko-spw&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=22niko-spw&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,10 +67,9 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [WaterAya](https://github.com/TON_USERNAME/WaterAya) | App iOS de suivi d'hydratation avec widget & bot Telegram | SwiftUI · Firebase · WidgetKit |
-| [holbertonschool-project-rando](https://github.com/TON_USERNAME/holbertonschool-project-rando) | Site collaboratif de recommandations randonnée | HTML · CSS · Git |
-| [Simple Shell](https://github.com/TON_USERNAME/simple_shell) | Shell UNIX minimaliste en C | C · Fork · Execve |
-| [N Queens](https://github.com/TON_USERNAME/holbertonschool-interview) | Algorithme de backtracking N-Reines | Python |
+| [WaterAya](https://github.com/22niko-spw/WaterAya) | App iOS de suivi d'hydratation avec widget & bot Telegram | SwiftUI · Firebase · WidgetKit |
+| [holbertonschool-project-rando](https://github.com/22niko-spw/holbertonschool-project-rando) | Site collaboratif de recommandations randonnée | HTML · CSS · Git |
+| [Simple Shell](https://github.com/22niko-spw/simple_shell) | Shell UNIX minimaliste en C | C · Fork · Execve |
 
 ---
 
